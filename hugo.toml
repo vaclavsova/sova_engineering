@@ -1,8 +1,8 @@
-baseURL = "https://vaclavsova.github.io/sova_engineering/"
+baseURL = "https://sovaengineering.cz/"
 languageCode = "cs-cz"
 title = "Sova Engineering"
 theme = "maverick"
-
+canonifyURLs = true
 defaultContentLanguage = "cs"
 defaultContentLanguageInSubdir = true
 
