@@ -33,5 +33,12 @@
     </ul>
   </nav>
   {{ end }}
+  {{ if .IsTranslated }}
+    <div class="language-switcher">
+      {{ range .Translations }}
+        <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+      {{ end }}
+    </div>
+  {{ end }}
 </header>
 <hr class="hr-list" style="padding: 0;margin: 0;">
