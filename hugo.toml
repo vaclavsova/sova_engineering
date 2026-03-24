@@ -1,0 +1,44 @@
+baseURL = "https://vaclavsova.github.io/sova_engineering/"
+languageCode = "cs-cz"
+title = "Sova Engineering"
+theme = "maverick"
+
+defaultContentLanguage = "cs"
+defaultContentLanguageInSubdir = true
+
+[params]
+author = "Sova Engineering"
+
+[languages]
+
+[languages.cs]
+languageName = "Čeština"
+weight = 1
+
+[languages.en]
+languageName = "English"
+weight = 2
+
+[languages.cs.menu]
+
+[[languages.cs.menu.main]]
+name = "Domů"
+url = "/cs/"
+weight = 1
+
+[[languages.cs.menu.main]]
+name = "O mně"
+url = "/cs/about/"
+weight = 2
+
+[languages.en.menu]
+
+[[languages.en.menu.main]]
+name = "Home"
+url = "/en/"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "About"
+url = "/en/about/"
+weight = 2
