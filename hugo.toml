@@ -27,9 +27,14 @@ url = "/cs/"
 weight = 1
 
 [[languages.cs.menu.main]]
+name = "Projekty"
+url = "/cs/projects/"
+weight = 2
+
+[[languages.cs.menu.main]]
 name = "O mně"
 url = "/cs/about/"
-weight = 2
+weight = 3
 
 [languages.en.menu]
 
@@ -39,6 +44,11 @@ url = "/en/"
 weight = 1
 
 [[languages.en.menu.main]]
+name = "Projects"
+url = "/en/projects/"
+weight = 2
+
+[[languages.en.menu.main]]
 name = "About"
 url = "/en/about/"
-weight = 2
+weight = 3
