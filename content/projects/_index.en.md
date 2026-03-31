@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Projects"
 ---
 
-Hello, this is English version.
+My projects:

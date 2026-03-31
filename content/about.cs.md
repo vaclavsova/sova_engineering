@@ -4,7 +4,7 @@ date: 2026-03-25
 ---
 
 Ahoj, jmenuji se Václav Sova, studoval jsem mechatroniku a zajímají mě věci, které se týkájí strojírenství, elektroniky a programování.
-V profesním životě se již přes 15 let věnuji oblasti embedded programování především v oblasti automotive. V soukromém životě si chci více hrát
+V profesním životě se již přes 15 let věnuji oblasti embedded programování především v oblasti automotive. V soukromém životě se věnuji i zábavnějším věcem
 a vznikají zajímavé projekty, které bych chtěl zde prezentovat. A také občas dát k dispozici ke stažení materiály, které by mohly být užitečné i 
 pro někoho jiného. Pokud vám něco zjednodušilo práci, nebudu se zlobit, když mi koupíte pivo.
 
