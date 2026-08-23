@@ -1,7 +1,18 @@
 ---
 title: "Jawa Stadion miscellaneous"
-date: 2026-03-25
+date: 2026-08-23
 ---
+# Stadion Piston Pin Installation Tool
+![Stadion Piston Pin Installation Tool](/images/stadion_piston_pin_installation.png)
+
+[Download STL soubor](/files/stadion_piston_pin_installation_patched.stl)
+
+The piston rests against the recess in the tool, and the protruding part of the tool is aligned with the piston pin bore. A threaded rod is then inserted and used to press the piston pin into the piston.
+The tool ensures that the piston pin remains perpendicular to the piston and prevents it from getting misaligned or jammed during installation.
+
+More details on my YouTube channel.
+
+Designed for pistons with a 10 mm piston pin diameter. The recess has a 40 mm diameter, making the tool suitable for pistons with a diameter of approximately 38–40 mm.
 
 # Crankcase splitter (magneto side)
 ![Crankcase splitting tool](/images/stadion_splitting_tool_b.png)

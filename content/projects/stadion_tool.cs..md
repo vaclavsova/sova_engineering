@@ -1,7 +1,18 @@
 ---
 title: "Stadion různé"
-date: 2026-03-25
+date: 2026-08-23
 ---
+# Přípravek na nalisování pístního čepu Stadion
+![Stadion Piston Pin Installation Tool](/images/stadion_piston_pin_installation.png)
+
+[Stáhnout STL soubor](/files/stadion_piston_pin_installation_patched.stl)
+
+Přípravek na nalisování pístního čepu Stadion Píst se opře o vybrání a výběžek přípravku se nasměruje do otvoru pístního čepu.
+Vloží se závitová tyč a pomocí ní se pístní čep vtlačí do pístu. Díky přípravku je zajištěna kolmost pístního čepu na píst a nedochází ke vzpříčení.
+Podrobnosti na mém YouTube kanálu.
+
+Pro písty s průměrem pístního čepu 10 mm a vybrání má průmer 40 mm, takže se hodí pro písty s průměrem 38-40 mm.
+
 # Rozlisovač karterů (strana magneta)
 ![Crankcase splitting tool](/images/stadion_splitting_tool_b.png)
 
